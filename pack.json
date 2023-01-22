@@ -1,0 +1,10 @@
+{
+  "name": "DSi Menu Music",
+  "description": "Adds the Iconic DSi Menu Music from the Nintendo DSi to the Steam Deck.",
+  "author": "Eggsuj",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
